@@ -1,2 +1,8 @@
 # Receita_de_pao
-Olá, sou uma descrição
+
+Qtd i tem
+
+3   ovos
+500g  farinha
+1L  Água
+20g Fermento
